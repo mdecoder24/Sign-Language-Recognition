@@ -9,7 +9,6 @@ const firebaseConfig = {
   storageBucket: "sign-language-recognitio-a7e2a.appspot.com",
   messagingSenderId: "651463104491",
   appId: "1:651463104491:web:cfca9581e40a7fcdd22bae",
-  measurementId: "G-2CYPLRWJF1"
 };
 
 firebase.initializeApp(firebaseConfig);
